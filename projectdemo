@@ -1,1 +1,4 @@
 collect log data from a Linux computer. First, you will create a Log Analytics workspace, and then you will enable the Log Analytics virtual machine extension on an existing Linux virtual machine. Next, you will collect syslog and performance data from the virtual machine. Finally, you will view the collected data
+
+create in Azure,GCP,AWS
+
